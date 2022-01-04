@@ -1,2 +1,3 @@
 # ShantihBlah.github.io
-Technical blogs
+Technical blogs:
+https://shantihblah.github.io
